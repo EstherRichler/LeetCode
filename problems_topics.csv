@@ -4,17 +4,22 @@ PROBLEM,TOPIC
 217,array
 66,array
 283,array
-283,array transformation
 189,array
+1,array
+283,array transformation
 350,binary search
 136,bit manipulation
 122,greedy
 217,hash table
 136,hash table
 350,hash table
+1,hash table
 1281,math
+7,math
 189,modulo
 350,sort
+344,string
 26,two-pointers
 350,two-pointers
 283,two-pointers
+344,two-pointers

@@ -1,18 +1,18 @@
-PROBLEM_NO,NAME,LANGUAGE,DATE_COMPLETED,LC_LEVEL,RUNTIME_PERCENTILE,MEMORY_PERCENTILE,
-122,Best Time to Buy and Sell Stock II,python,7/23/2020,easy,10.84,48.35,
+PROBLEM_NO,NAME,LANGUAGE,DATE_COMPLETED,LC_LEVEL,RUNTIME_PERCENTILE,MEMORY_PERCENTILE,NEEDS_IMPROVEMENT
+122,Best Time to Buy and Sell Stock II,python,7/23/2020,easy,10.84,48.35,y
 595,Big Countries,sql,7/12/2020,easy,70.59,,
 1281,Subtract the Product and Sum of Digits of an Integer,python,6/29/2020,easy,97.21,66.18,
 26,Remove Duplicates from Sorted Array,python,7/23/2020,easy,93.92,77.62,
-189,Rotate Array,python,7/23/2020,easy,55.14,5.74,
-217,Contains Duplicate,python,7/24/2020,easy,16.9,23.93,
-136,Single Number,python,7/24/2020,easy,96.2,19.04,
-350,Intersection of Two Arrays II,python,7/24/2020,easy,5.5,87.7,
-66,Plus One,python,7/24/2020,easy,16.21,42.12,
+189,Rotate Array,python,7/23/2020,easy,55.14,5.74,y
+217,Contains Duplicate,python,7/24/2020,easy,16.9,23.93,y
+136,Single Number,python,7/24/2020,easy,96.2,19.04,y
+350,Intersection of Two Arrays II,python,7/24/2020,easy,5.5,87.7,y
+66,Plus One,python,7/24/2020,easy,16.21,42.12,y
 283,Move Zeroes,python,7/24/2020,easy,98.93,59.57,
-1,,python,,,,,
-344,,python,,,,,
-7,,python,,,,,
-387,,python,,,,,
+1,Two Sum,python,7/26/2020,easy,95.56,47.68,y
+344,Reverse String,python,7/26/2020,easy,69.13,16.92,y
+7,Reverse Integer,python,7/26/2020,easy,93.46,91.08,
+387,,python,7/27/2020,easy,73.45,87.5,
 13,,python,,,,,
 ,,,,,,,
 242,,python,,,,,
@@ -47,4 +47,4 @@ PROBLEM_NO,NAME,LANGUAGE,DATE_COMPLETED,LC_LEVEL,RUNTIME_PERCENTILE,MEMORY_PERCE
 ,,,,,,,
 ,,,,,,,
 Not done yet,,,,,,,
-114,Flatten Binary Tree to Linked List,python,,medium,,,note: this was Diane's interview simulator question
+114,Flatten Binary Tree to Linked List,python,,medium,,,
