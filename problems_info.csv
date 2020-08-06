@@ -16,7 +16,7 @@ PROBLEM_NO,NAME,LANGUAGE,DATE_COMPLETED,LC_LEVEL,RUNTIME_PERCENTILE,MEMORY_PERCE
 13,Roman to Integer,python,7/27/2020,easy,98.27,89.83,y,
 ,,,,,,,,
 242,Valid Anagram,python,7/29/2020,easy,90.91,74.24,,ord()
-125,,python,,,,,,
+125,Valid Palindrome,python,8/5/2020,easy,45.66,15.48,,isalnum()
 8,,python,,,,,,
 28,,python,,,,,,
 38,,python,,,,,,
