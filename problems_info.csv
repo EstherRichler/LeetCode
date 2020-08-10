@@ -17,8 +17,8 @@ PROBLEM_NO,NAME,LANGUAGE,DATE_COMPLETED,LC_LEVEL,RUNTIME_PERCENTILE,MEMORY_PERCE
 ,,,,,,,,
 242,Valid Anagram,python,7/29/2020,easy,90.91,74.24,,ord()
 125,Valid Palindrome,python,8/5/2020,easy,45.66,15.48,,isalnum()
-8,String to Integer (atoi),python,5/7/2020,medium,97.73,27,,isdigit()
-28,,python,,,,,,
+8,String to Integer (atoi),python,8/7/2020,medium,97.73,27,,isdigit()
+28,,python,8/10/2020,easy,90.95,73.41,,
 38,,python,,,,,,
 70,,python,,,,,,
 121,,python,,,,,,
